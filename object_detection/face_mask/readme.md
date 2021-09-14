@@ -31,5 +31,8 @@ The results from the trainined model are shown below:
 ![Result 1!](result3.png "Result 3")
 
 
+*Note: This code was developed on Google Colab Pro*
+
+
 Future work: More training and augmentation is required to improve 
 the performance of the model.
